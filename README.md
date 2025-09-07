@@ -6,5 +6,5 @@ This is API hit in Nodemon
 
 
 
-And the same answer Show in Terminal
+And the same answer  will also Show in Terminal
 
